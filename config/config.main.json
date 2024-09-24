@@ -1,4 +1,4 @@
-{
+mo{
     "APPSTATE_PATH": "./appstate.json",
     "APPSTATE_PROTECTION": true,
     "AUTO_PING_SERVER": true,
@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100008907121641"
+        "61563425273900"
     ],
     "ABSOLUTES": [
-        "100008907121641"
+        "61563425273900"
     ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
+    "NAME": "Eagle bot",
+    "PREFIX": "#",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
